@@ -3,14 +3,14 @@ let shopItemsdata = [{
     name:"The Jewish Holiday Table",
     price:45,
     desc: "All year long jewish cook book.",
-    img:"/Assests/prod1.jpg"
+    img:"prod1.jpg"
 },
 {
     id:"prodct2",
     name:"TBs TNBC Cookbook",
     price:60,
     desc: "A disney christmas baking book.",
-    img:"/Assests/prod2.jpg"
+    img:"prod2.jpg"
 
 },
 {
@@ -18,14 +18,14 @@ let shopItemsdata = [{
     name:"TBs TNBC Baking Cookbook Exclusive",
     price:55,
     desc: "A disney halloween cook book.",
-    img:"/Assests/prod3.jpg"
+    img:"prod3.jpg"
 },
 {
     id:"prodct4",
     name:"The Book on Pie",
     price:40,
     desc: "Everything you need to know to bake perfect pies.",
-    img:"/Assests/prod4.jpg"
+    img:"prod4.jpg"
     
 },
 {
@@ -33,7 +33,7 @@ let shopItemsdata = [{
     name:"Christmas Cookies",
     price:50,
     desc: "143 Sweet specialties for the holidays.",
-    img:"/Assests/prod5.jpg"
+    img:"prod5.jpg"
     
 },
 {
@@ -41,7 +41,7 @@ let shopItemsdata = [{
     name:"Pumpkin Cookbook",
     price:60,
     desc: "60 different way to make your perfect pumkpin.",
-    img:"/Assests/prod6.jpg"
+    img:"prod6.jpg"
     
 },
 {
@@ -49,7 +49,7 @@ let shopItemsdata = [{
     name:"Frieda's Fiestas",
     price:75,
     desc: "Recipies and Reminiscences of life with Frida Kahlo.",
-    img:"/Assests/prod7.jpg"
+    img:"prod7.jpg"
     
 },
 {
@@ -57,7 +57,7 @@ let shopItemsdata = [{
     name:"S Cooking the History",
     price:35,
     desc: "Recipies of the Jews of Spain and the Diaspora.",
-    img:"/Assests/prod8.jpg"
+    img:"prod8.jpg"
     
 },
 {
@@ -65,7 +65,7 @@ let shopItemsdata = [{
     name:"The Camping Cookbook",
     price:50,
     desc: "Fabulous campfire feasts for outdoor adventures.",
-    img:"/Assests/prod9.jpg"
+    img:"prod9.jpg"
     
 },
 {
@@ -73,7 +73,7 @@ let shopItemsdata = [{
     name:"Totally Kosher",
     price:80,
     desc: "Tradition with a twist.",
-    img:"/Assests/prod10.jpg"
+    img:"prod10.jpg"
     
 },
 {
@@ -81,12 +81,12 @@ let shopItemsdata = [{
     name:"HOMAGE",
     price:90,
     desc: "Recipies from an Amish soul food kitchen.",
-    img:"/Assests/prod11.jpg"
+    img:"prod11.jpg"
     
 },{
     id:"prodct12",
     name:"FEAST",
     price:100,
     desc: "Food of the Islamic World.",
-    img:"/Assests/prod12.jpg"
+    img:"prod12.jpg"
 }]
